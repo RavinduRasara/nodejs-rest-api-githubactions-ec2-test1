@@ -16,7 +16,7 @@ Follow these steps to set up the deployment pipeline for your Node.js REST API o
 1. **Create an EC2 Instance:**
    - Create a new EC2 instance in your AWS account or use an existing one.
    - Generate or use an existing SSH key pair for accessing the instance.
-
+ 
 2. **Git Repository Setup:**
    - Create a new Git repository and push your Node.js code to it.
 
